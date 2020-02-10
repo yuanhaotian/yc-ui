@@ -33,8 +33,7 @@ export default {
     created(){
         setTimeout(()=>{
             this.itemWidth = this.width;
-        },50);
-        
+        },50);  
     },
     mounted(){
      
